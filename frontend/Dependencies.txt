@@ -1,0 +1,1 @@
+npm i axios bootstrap-icons react-bootstrap react-router-dom
